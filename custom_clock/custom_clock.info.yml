@@ -1,0 +1,5 @@
+type: module
+name: Custom Clock
+description: 'Provides a block displaying the Location and current time.'
+package: Date/Time
+core: 8.x

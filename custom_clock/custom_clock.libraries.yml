@@ -1,0 +1,8 @@
+custom_clock_lib:
+  version: v1
+  js:
+    js/custom_clock.js: { scope: footer }
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings

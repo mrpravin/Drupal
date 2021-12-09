@@ -1,0 +1,4 @@
+services:
+  custom_clock.custom_services:
+    class: Drupal\custom_clock\ClockDateFormatter
+    arguments: ['@date.formatter']
